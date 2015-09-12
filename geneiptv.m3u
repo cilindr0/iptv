@@ -229,6 +229,12 @@ http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8
 #EXTINF:-1 group-title="LATINOS",RT ESPAÑA
 http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
 
+#EXTINF:0 group-title="LATINOS",Andalucía TV ESPAÑA
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+
+#EXTINF:0 group-title="LATINOS",Galicia TV ESPAÑA
+http://media3.crtvg.es/live/tvga/hasbahca.m3u8
+
 #EXTINF:-1 group-title="LATINOS",Telesistema REPUBLICA DOMINICANA
 http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w1839003835_b764000.m3u8
 
